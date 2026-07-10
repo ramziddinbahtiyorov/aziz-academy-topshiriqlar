@@ -6,14 +6,14 @@
 
 `█░░░░░░░░░░░░░░░░░░░` **4%**  (7/179 mavzu)
 
-- ⭐ Jami ball: **4465**
-- 📤 GitHubga yuborilgan topshiriqlar: **45**
+- ⭐ Jami ball: **4630**
+- 📤 GitHubga yuborilgan topshiriqlar: **46**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Stringlar — kirish: matn, qo'shtirnoqlar, len()**
+**MODUL 1 — Asoslar** → **Bool va mantiq — True/False, mantiqiy ifodalar**
 
-➡️ Keyingi mavzu: *Bool va mantiq — True/False, mantiqiy ifodalar*
+➡️ Keyingi mavzu: *input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,8 +23,8 @@
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
 - ✅ Sonlar: int va float — butun va kasr sonlar
-- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()  ← yetgan joyingiz
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar  ← yetgan joyingiz
 - ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
 - ⬜ Mantiqiy operatorlar — and, or, not
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-08 11:18</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-10 10:52</sub>
