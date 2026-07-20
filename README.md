@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — BAXTIYOROV RAMZIDDIN 1
+# 🎓 Aziz Academy — Baxtiyorov Ramziddin 1
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `█░░░░░░░░░░░░░░░░░░░` **4%**  (7/179 mavzu)
 
-- ⭐ Jami ball: **11145**
-- 📤 GitHubga yuborilgan topshiriqlar: **81**
+- ⭐ Jami ball: **11260**
+- 📤 GitHubga yuborilgan topshiriqlar: **82**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 10:56</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-20 09:10</sub>
