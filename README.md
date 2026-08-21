@@ -6,19 +6,19 @@
 
 `██░░░░░░░░░░░░░░░░░░` **9%**  (16/179 mavzu)
 
-- ⭐ Jami ball: **23845**
-- 📤 GitHubga yuborilgan topshiriqlar: **228**
+- ⭐ Jami ball: **24045**
+- 📤 GitHubga yuborilgan topshiriqlar: **229**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash**
+**MODUL 2 — Stringlar va Formatlash** → **Index va slicing ⭐ — s[0], s[1:4], s[::-1]**
 
-➡️ Keyingi mavzu: *Index va slicing ⭐ — s[0], s[1:4], s[::-1]*
+➡️ Keyingi mavzu: *String metodlari — 1: lower, upper, strip, title*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ⬜ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
+- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]  ← yetgan joyingiz
 - ⬜ String metodlari — 1: lower, upper, strip, title
 - ⬜ String metodlari — 2: replace, find, count, split, join
 - ⬜ in operatori — substring izlash, mavjudlikni tekshirish
@@ -58,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-19 11:22</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-21 10:03</sub>
