@@ -1,0 +1,5 @@
+s = input()
+s = s.replace(',', ' ')
+words = s.split()
+print(' '.join(words))
+print(len(words))
