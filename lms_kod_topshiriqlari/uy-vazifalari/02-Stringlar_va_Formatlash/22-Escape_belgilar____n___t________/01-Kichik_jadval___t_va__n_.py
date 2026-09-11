@@ -1,0 +1,7 @@
+name1 = input()
+age1 = input()
+name2 = input()
+age2 = input()
+print("Ism\tYosh")
+print(f"{name1}\t{age1}")
+print(f"{name2}\t{age2}")
